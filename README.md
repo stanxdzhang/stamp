@@ -37,3 +37,20 @@ Benefits to the parties:
 4).     Service providers get paid by handling emails. The more emails they handle, the more revenue they earn. They don’t need to rely on advertisements as a single revenue source anymore. Advertising is still doable, and it may become more targeted and effective. 
 
 5).     Because of 4, service providers are incentivized to better protect users' privacy. Email content will be encrypted.
+
+
+Some technical considerations:
+1).     The blockchain mentioned above will only serve the creation of the Stamp, and record the Stamp transaction. The transmission and storage of emails are not on the blockchain.
+2).     Email address verification: PKI may be good.
+3).     Encryption of content: only do encryption during transmission. Encryption/Decryption is invisible to users.
+4).     Others: a lot. Leave this part to technology geeks and talents...
+
+Some marketing thoughts:
+(I keep this part private)
+
+Lastly, I am looking for people who are enthusiastic about this mission and want to make it a reality. After reading this article, have you realized this is a great project?
+
+
+
+
+

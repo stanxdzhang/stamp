@@ -29,7 +29,11 @@ On governance, a decentralized autonomous organization needs to be formed, a lot
 Benefits to the parties:
 
 1).     No more SPAM or Phishing. No missed emails or appointments anymore. Email becomes a reliable communication tool again.
+
 2).     Useless internet traffic reduced greatly. Storage space saved. Energy waste and CO2 emission reduced.
+
 3).     Users get rewards if they are willing to receive commercial emails.
+
 4).     Service providers get paid by handling emails. The more emails they handle, the more revenue they earn. They don’t need to rely on advertisements as a single revenue source anymore. Advertising is still doable, and it may become more targeted and effective. 
+
 5).     Because of 4, service providers are incentivized to better protect users' privacy. Email content will be encrypted.

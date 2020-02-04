@@ -1,4 +1,5 @@
 Problem:
+
 The internet has been decades in our life. Email is still one of the most important communication tools for billions of people in the world. Some key natures are supporting Email to be long-surviving: (1) Email can enable people to communicate with each other as long as they have internet access, it’s essential and easy to use. (2) An Email address is a unique identity on the entire internet, can be independent of any platform. This is different from other IDs on various internet platforms i.e., one’s Facebook ID or his Youtube ID. Because of this, email is widely used to verify a user’s viability on many internet platforms and mobile Apps. (3) Email is suitable to handle huge amounts of messages over a very long time, being archivable and searchable and has been accepted to be legal evidence electronically.
 
 However, the usability of Email is ruined by SPAMs. Everyone’s email box may receive annoying SPAM emails every day, sometimes with malicious content. As one of the earliest Internet entrepreneurs in China, I proactively participated in the antispam campaign led by the Internet Society of China (ISC). Most of the major email service providers in China, including my company, HiChina, participated in the campaign. Almost every email service provider has equipped with anti-SPAM/Phishing solutions. International anti-SPAM/Phishing organizations have been established. Major email service providers have been working with each other to fight against spammers. Machine learning and Artificial intelligence technologies are adopted to improve efficiency and accuracy. However, anti-SPAM campaigns never won. Today, we see SPAMs or Phishing emails still exist, and sometimes important emails were put into SPAM box by anti-SPAM so
@@ -8,6 +9,7 @@ The above are caused by the following reasons (1) The old standard email transmi
 As a result of today's situation, millions of SPAM emails are transferred over the internet every minute and stored on the servers, wasting the network bandwidth and leading to remarkable and senseless cost to service providers, as well wasting energy and worsening our environment. All email users are suffering. According to statista.org, there were 280 billion emails transmitted every day in 2018, 45.3% of the emails belong to SPAM.
 
 Solution:
+
 I was inspired by traditional physical mail. In our life, households and businesses receive advertising paper mails but not at a huge amount. The direct reason is there is a cost for every mail charged by the post office. Why don’t we design a new email system that includes a fee mechanism? I will describe how excited this system will work in the following paragraph.
 
 I was also inspired by WeChat, the most famous Instant Messaging mobile app originated in China, which is used by more than 1.1 billion users every day. On WeChat, users must become friends or buddies before being able to send messages with each other. Based on this mechanism, there is NO SPAM on WeChat because if you send me a SPAM message, I remove you from my friend(buddy) list, then you can never send me any message again. 
@@ -25,6 +27,7 @@ Technically, to achieve the above goals, a series of milestones need to be achie
 On governance, a decentralized autonomous organization needs to be formed, a lot of work needs to be done.
 
 Benefits to the parties:
+
 1.     No more SPAM or Phishing. No missed emails or appointments anymore. Email becomes a reliable communication tool again.
 2.     Useless internet traffic reduced greatly. Storage space saved. Energy waste and CO2 emission reduced.
 3.     Users get rewards if they are willing to receive commercial emails.
